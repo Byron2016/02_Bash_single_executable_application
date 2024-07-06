@@ -6,7 +6,7 @@
 - [Firmar ejecutable](https://signmycode.com/resources/signing-executable-files-using-microsoft-signtool)
 
 - Ejecutar hasta la 5 Paso 6 ejecutarse en PS dado que en gb falla Una vez ejecutado 6, se puede ejecutar el 8
-- sh c.sh -a y -b y -c y -d y -e w -f y -g "gb" -h n -i "win_cp" -j n -k "gb" -l n -z y
+- sh c.sh -a y -b y -c y -d y -e w -f y -g "gb" -h y -i "win_cp" -j n -k "gb" -l y -z y
 - i :
 
   - "linux"
