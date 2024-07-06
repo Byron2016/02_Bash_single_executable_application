@@ -1,0 +1,6 @@
+node_modules
+pnpm-lock*
+hello.exe
+hello.js
+sea-config.json
+sea-prep.blob
